@@ -17,8 +17,8 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
-  <img alt="Sql" src="https://img.shields.io/badge/Sql-003B57?logo=sql&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Sql" src="https://img.shields.io/badge/Sql-003B57?logo=sql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
