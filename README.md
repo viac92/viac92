@@ -20,7 +20,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Sql" src="https://img.shields.io/badge/Sql-003B57?logo=sql&logoColor=white&style=for-the-badge" />
 </p>
-
----
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=viac92&count_private=true&show_icons=true&theme=dracula)
