@@ -23,5 +23,5 @@
 
 ---
 
- <img height="20%" width="20%" alt="Sql" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=384&q=75" />
+ <img height="13%" width="13%" alt="Sql" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=384&q=75" />
 
